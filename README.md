@@ -33,21 +33,24 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 ## <a name="skills">S K I L L S</a>
 
 **Motivated to learn**
-
+- I feel passionate about continuous learning and exploring new and different ways of doing things and I am able to adapt to change. The broad range of projects in my previous career required adaptability to the required specifications as well as a willingness to explore other solutions.
+- When working as an Emergency call coordinator during the pandemic, a time weere little understanding of the virus. I had to adapt quickly and aid in triaging and organising of ambulances to ensure patients were not neglected during unprecedented times. I had to study new notes given by the clinical team and relay it to other healthcare professionals who were calling.
+- In the context of Makers, we discussed our goals for the final project and our team decided on working with REACT. With no prior knowledge of React, I was able to overcome the challenge of learning the new framework within a few days and contribute as an active member of the team. I was able to implement a two player and game assist functionality.
 
 <br> 
 
 **Team work**
-
+- Working as part of multidiscplinary team within the London Ambulance service, there is a shared purpose to improve patient outcome.The experience of working in these environments has set me up with tools for collaboration, from communication skills, open-mindedness, to being able to take different roles within teams, like leading in the arrangement of ambulances to training new colleagues in both  thecall handling and dispatch sector.
+- My role as a community coordinator for CodeYourFuture has given me the opportunity to both lead and support ongoing projects.I Helped organised a women's brunch at CodeYourFuture to help empower women who come from varying social backgrounds to forge a career in technology. As the team were working mainly remotely, it took substantial coordination and keeping an open mind to different ways of communicating instead of the traditional face to face meetings. In addition to video conferencing, I relied heavily on active email exchanges, using tools such as trello and canvas to organise the event. 
+-I thoroughly enjoy working with others and pair programming was a significant component of the Makers Academy program where I paired with a colleague on a challenge every afternoon.
 <br> 
 
 **Problem solving**
+- Due to the multidisciplinary nature of the London ambulance service, problem solving is a main aspect of the profession. At any stage of the shift changes are possible and inevitable, from change in condition of the patient, unexpected work conditions, ambulance delays, staff shortage. An ability to react to those challenges and being able to prioritise and turn around a solution promptly is essential and at times requires unconventional approaches.
 
 <br>
 
-<!-- **Responsible/Diligent**
-
-<br>  -->
+<br> 
 
 
 
@@ -104,6 +107,7 @@ University of Westminster, *09|2012 - 10|2015, London, United Kingdom*<br>
 - used strong communication skills to collaborate with other non-profit organisations to increase number of software development applicants. 
 - my passion for continuous learning allowed me to explore and implement ideas to further promote events at CodeYourFuture.
 <br>
+
 **Emergency Call Coordinator**<br>
 *London Ambulance Service*, 03|2018 - 04|2020, London, UK
 
@@ -113,6 +117,17 @@ University of Westminster, *09|2012 - 10|2015, London, United Kingdom*<br>
 - Refined soft skills such as empathy and active listening. As a result, I was able to deliver new borns and successfully give CPR instructions.
 - Kept to strict time constraints to ensure all details are inputted and passed to relevant personnel allowing for appropriate dispatch of resources.
 - My passion for continuous learning allowed me to explore alternative roles within healthcare. I was able to go on in-person calls with doctors and paramedics. I had also taken further training to take roles in multiple sectors within the ambulance service.
+<br>
+
+**English Tutor**<br>
+*Unique Sixth Form*, 01|2017 - 12|2017, London, UK
+- Involved in teaching essential English skills such as basic grammar and essay writing.
+- Dealt with children between the ages of 6-16 years old and of different backgrounds. This improved my
+ability to work independently.
+- Organsied holiday activites and poetry competitions to ensure children had experiences outside the classroom 
+- Brought strong team working skills to all my lessons, which are integral to the running of a classrom environment. I kept both teaching staff and parents up to date with children's progress. 
+- Kept up to date with first-aid requirmenets and safeguarding measures to ensure safety and wellbeing of students.
+
 <br>
 
 

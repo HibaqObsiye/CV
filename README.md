@@ -9,7 +9,7 @@
 <br>
 </div>
 
-I am a Junior Software Engineer, recently completed [Makers Academy Bootcamp](#makers) and am looking forward to continue learning and growing as a developer. I have a background in both healthcare and non-profit organisations and therefore hope to work for a mission-led and value driven company who are committed to bringing positive change. I hope to contribute to big projects as part of a fun, supportive team where I can learn from people of all walks of life.<br>
+I am a Junior Software Engineer, recently completed [Makers Academy Bootcamp](#makers) and I am looking forward to continue learning and growing as a developer. I have a background in both healthcare and non-profit organisations and therefore hope to work for a mission-led and value driven company who are committed to bringing positive change. I hope to contribute to big projects as part of a fun, supportive team where I can learn from people of all walks of life.<br>
 <br>
 
 <br>

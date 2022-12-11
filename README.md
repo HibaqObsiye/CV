@@ -95,8 +95,8 @@ University of Westminster, *09|2012 - 10|2015, London, United Kingdom*<br>
 - Took leadership of running Computing Workshops for children aged 5 to 11 years.
 - Practiced detail oriented and dedicated approach to ensure learning specification was met.
 - Took initiative for planning alternative lessons such as basic mathematics to ensure children understood how it relates to creating computer games. 
-- Brought strong team working skills to all my lessons, which are integral to the running of a classrom environment. I kept both teaching staff and parents up to date with children's progress. 
-- Kept up to date with first-aid requirmenets and safeguarding measures to ensure safety and wellbeing of students.
+- Brought strong team working skills to all my lessons, which are integral to the running of a classroom environment. I kept both teaching staff and parents up to date with children's progress. 
+- Kept up to date with first-aid requirments and safeguarding measures to ensure safety and wellbeing of students.
 
 <br>
 

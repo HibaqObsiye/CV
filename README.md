@@ -9,7 +9,11 @@
 <br>
 </div>
 
-I am a Junior Software Engineer, recently completed [Makers Academy Bootcamp](#makers) and I am looking forward to continue learning and growing as a developer. I have a background in both healthcare and non-profit organisations and therefore hope to work for a mission-led and value driven company who are committed to bringing positive change. I hope to contribute to big projects as part of a fun, supportive team where I can learn from people of all walks of life.<br>
+I am a Junior Software Engineer, recently completed [Makers Academy Bootcamp](#makers) and I am looking forward to continue learning and growing as a developer. I am a go-getter with a curious mind, who likes to experiment with different perspectives and new challenges. I became a developer due to the unique combination of personal satisfaction, self development and creative expression it can fulfil. 
+
+After graduating university with an Msc in Molecular Biology, I choose to work in the education sector as an English Tutor in a sixth form school and then in healthcare as part of the London Ambulance Service. My interest in coding has led to me to my current role as a community coordinator for a non-profit technology organisation and a code coach for after-school clubs. 
+
+My background in the sectors mentioned has inspired my coding journey and I hope to continue to work for a mission-led and value driven company who are committed to bringing positive change. I hope to contribute to big projects as part of a fun, supportive team where I can learn from people of all walks of life.<br>
 <br>
 
 <br>
@@ -19,7 +23,6 @@ I am a Junior Software Engineer, recently completed [Makers Academy Bootcamp](#m
 JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Express, React, Sinatra, Jest, Cypress, RSpec.
 
 <br>
-
 
 ## <a name="projects">K E Y   P R O J E C T S</a>
 
@@ -34,7 +37,9 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 
 **Motivated to learn**
 - I feel passionate about continuous learning and exploring new and different ways of doing things and I am able to adapt to change. The broad range of projects in my previous career required adaptability to the required specifications as well as a willingness to explore other solutions.
-- When working as an Emergency call coordinator during the pandemic, a time weere little understanding of the virus. I had to adapt quickly and aid in triaging and organising of ambulances to ensure patients were not neglected during unprecedented times. I had to study new notes given by the clinical team and relay it to other healthcare professionals who were calling.
+- When working as an Emergency call coordinator during the pandemic, a time where there was little understanding of the virus, I had to adapt quickly and aid in triaging and organising of ambulances to ensure patients were not neglected during unprecedented times. I had to study new notes given by the clinical team and relay it to other healthcare professionals who were calling.
+- Working as an English Tutor as part of the education sector, I was continuously acquiring new and better forms of
+knowledge that I can apply to my lessons. I would spend my free time researching books, poems and online resources to trial with the children. I would take feedback from the children and parents of my new finds and adapt accordinglly. This created a collaborative learning environment. 
 - In the context of Makers, we discussed our goals for the final project and our team decided on working with REACT. With no prior knowledge of React, I was able to overcome the challenge of learning the new framework within a few days and contribute as an active member of the team. I was able to implement a two player and game assist functionality.
 
 <br> 
@@ -47,12 +52,16 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 
 **Problem solving**
 - Due to the multidisciplinary nature of the London ambulance service, problem solving is a main aspect of the profession. At any stage of the shift changes are possible and inevitable, from change in condition of the patient, unexpected work conditions, ambulance delays, staff shortage. An ability to react to those challenges and being able to prioritise and turn around a solution promptly is essential and at times requires unconventional approaches.
+- Working in a school environment, I became proficient in identifying issues with students both academically and personally that may be hindering their overall growth. Academically, I noticed that younger students are often not taught how to openly talk about issues they're facing with reading and arithmatics. I created a positive and negative jar where students could write or draw issues or successes they had. I implemented their feedback in future lessons. I found this was great in creating an open and safe environment for students to build their foundational tools of communication and being honest with their struggles as well as takig a moment to celebrate their small wins. 
+
+**Functioning under high pressure**
+- Working in healthcare, it is crucial to adapt to high pressure situation as you are dealing with constraints which are often outside of your control. An example being sudden cardiac arrest calls. I would balance calming the loved ones of the patient, noting time critical information and relaying it to the relevant healtcare team. These scenarios being no longer than 3 minutes. Managers have commended me for my calm and empathetic manner during my monthly reviews. As a result, I tend to embrace working under pressure because it forces me to become the best version of myself and act in a quick and decisive manner.
+- In the context of makers, my final project required use of skills I had attained professionally. Designing a game which we had not previously done before during my course brought its own set of challenges.  I had 8 days to understand react, specifically game state and the parent-child-sibling model. My good time management skills, utilising planning tools such as excalidraw and trello in combination with my ability to adapt to unexpected scenarios and effective communication skills allowed me to implement multiple features in my project. I was proud to add a two player function and implement player movement and changes based on obstacles and assits the player encountered.
+
 
 <br>
 
 <br> 
-
-
 
 ## <a name="education">E D U C A T I O N</a>
 
@@ -82,7 +91,6 @@ Imperial College london, *09|2015 - 10|2016, London, United Kingdom*<br>
 University of Westminster, *09|2012 - 10|2015, London, United Kingdom*<br>
 *graduated with a 2:1 with a first in my dissertation*<br>
 <br>
-
 
 ## <a name="experience">P R O F E S S I O N A L   E X P E R I E N C E</a>
 
@@ -129,6 +137,8 @@ ability to work independently.
 - Kept up to date with first-aid requirmenets and safeguarding measures to ensure safety and wellbeing of students.
 
 <br>
+
+
 
 
 ## <a name="competitions">C O M P E T I T I O N S</a>

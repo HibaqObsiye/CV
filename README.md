@@ -93,9 +93,6 @@ University of Westminster, *09|2012 - 10|2015, London, United Kingdom*<br>
 <br>
 
 ## <a name="experience">P R O F E S S I O N A L   E X P E R I E N C E</a>
-
-
-<br>
 <br>
 
 **Code Coach**<br>

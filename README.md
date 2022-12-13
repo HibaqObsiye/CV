@@ -13,7 +13,7 @@ I am a Junior Software Engineer, recently completed [Makers Academy Bootcamp](#m
 
 After graduating university with an Msc in Molecular Biology, I choose to work in the education sector as an English Tutor in a sixth form school and then in healthcare as part of the London Ambulance Service. My interest in coding has led to me to my current role as a community coordinator for a non-profit technology organisation and a code coach for after-school clubs. 
 
-My background in the sectors mentioned has inspired my coding journey and I hope to continue to work for a mission-led and value driven company who are committed to bringing positive change. I hope to contribute to big projects as part of a fun, supportive team where I can learn from people of all walks of life.<br>
+My background has inspired my coding journey and I hope to continue to work for a mission-led and value driven company who are committed to bringing positive change. I hope to contribute to big projects as part of a fun, supportive team where I can learn from people of all walks of life.<br>
 <br>
 
 <br>

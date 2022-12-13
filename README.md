@@ -142,7 +142,7 @@ ability to work independently.
 
 **Competitions**
 - **iGEM** - Gold prize, 08|2015, London, UK<br>
-- **iGEM** -- Bronze prize, 08|2014, London, UK<br>
+- **iGEM** - Bronze prize, 08|2014, London, UK<br>
 <br>
 
 

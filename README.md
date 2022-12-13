@@ -153,6 +153,6 @@ ability to work independently.
 <!-- - **cycling**   | Joined an all-women's cycling club. London is best explored on two wheels -->
 - **Embroidery**   |   No jumper or cushion is safe from my floral designs. I hope to embroider animated characters at some point but baby steps for now.)
 - **Zumba**  
-- **Bookcollection**   |   I hear that you only need 1000 books to have a library. British library does not hold a candle to my small library.
+- **Book collection**   |   I hear that you only need 1000 books to have a library. British library does not hold a candle to my small library.
 - **podcasts**   |  From Ricky Gervais to True crime.
 <br>

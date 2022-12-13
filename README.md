@@ -106,7 +106,7 @@ University of Westminster, *09|2012 - 10|2015, London, United Kingdom*<br>
 <br>
 
 **Community Coordinator**<br>
-*CodeYourFuture*, 01|2022 - present, London, UK
+*CodeYourFuture*, 03|2022 - present, London, UK
 - Successfully ran Women focused events to support and empower women from disadvantaged background to code .
 - Helped organise Demo day for students to present their final projects.
 - used strong communication skills to collaborate with other non-profit organisations to increase number of software development applicants. 

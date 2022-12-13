@@ -124,8 +124,19 @@ University of Westminster, *09|2012 - 10|2015, London, United Kingdom*<br>
 - My passion for continuous learning allowed me to explore alternative roles within healthcare. I was able to go on in-person calls with doctors and paramedics. I had also taken further training to take roles in multiple sectors within the ambulance service.
 <br>
 
+**Virology Laboratory technician**<br>
+*Pirbright Institute*, 02|2017 - 12|2017, London, UK
+- Worked as part of a multidsciplinary team to control outbreak of infectious diseases in the UK.
+- Independently Ran PCR and immunology experiments of animal viruses under tight deadlines.
+- Carried out presentations of findings to various teams.
+- Regularly took part in training to improve skills.
+- Proficient in using technologies such as statistical SPSS software and  Microsoft packages.
+- Took part in daily morning meetings to share knowledge and update team of any successes or issues.
+
+<br>
+
 **English Tutor**<br>
-*Unique Sixth Form*, 01|2017 - 12|2017, London, UK
+*Unique Sixth Form*, 09|2012 - 12|2015, London, UK
 - Involved in teaching essential English skills such as basic grammar and essay writing.
 - Dealt with children between the ages of 6-16 years old and of different backgrounds. This improved my
 ability to work independently.

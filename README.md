@@ -30,7 +30,7 @@ JavaScript, Ruby, PostgreSQL, MongoDB, TablePlus, Git, HTML, CSS, Node.js, Expre
 |---       |---          |---          |
 | [Rat-race](https://github.com/HibaqObsiye/Rat-race) | A snakes and ladder inspired board game using React | JavaScript, React,Html,Css|
 | [AceBook](https://github.com/HibaqObsiye/Acebook) | A Facebook clone for which I learnt React, Node, Express, MongoDB in 2 weeks| React, JavaScript, Node.js, Express,HTML, CSS, Jest, Mongo, Cypress |
-| [MakersBnB]((https://github.com/HibaqObsiye/Maker-bnb))| An AirBnB clone introducing me to Agile methodologies and workflows. | Ruby, Rspec, Sinatra, CSS, HTML, PostgreSQL |
+| [MakersBnB](https://github.com/HibaqObsiye/Maker-bnb)| An AirBnB clone introducing me to Agile methodologies and workflows. | Ruby, Rspec, Sinatra, CSS, HTML, PostgreSQL |
 <br>
 
 ## <a name="skills">S K I L L S</a>
@@ -109,8 +109,17 @@ University of Westminster, *09|2012 - 10|2015, London, United Kingdom*<br>
 *CodeYourFuture*, 03|2022 - present, London, UK
 - Successfully ran Women focused events to support and empower women from disadvantaged background to code .
 - Helped organise Demo day for students to present their final projects.
-- used strong communication skills to collaborate with other non-profit organisations to increase number of software development applicants. 
-- my passion for continuous learning allowed me to explore and implement ideas to further promote events at CodeYourFuture.
+- Used strong communication skills to collaborate with other non-profit organisations to increase number of software development applicants. 
+- My passion for continuous learning allowed me to explore and implement ideas to further promote events at CodeYourFuture.
+<br>
+
+**Administrative Coordinator**<br>
+*Sharif DIY & Kitchenware LTD*, 04|2020 - 12|2021, London, UK
+- Responsible for carrying out complex administrative support activities in a busy retail business.
+- Fine-tuned a number of soft skills such as working under high pressure and communicating effectively with staff and clients.
+- Dealt with sensitive client and employee information
+- Created, tested and implemented a range of Microsoft documents.
+- Responsible for carrying out complex administrative support activities in a busy retail business. 
 <br>
 
 **Emergency Call Coordinator**<br>
@@ -152,8 +161,8 @@ ability to work independently.
 ## <a name="competitions">C O M P E T I T I O N S</a>
 
 **Competitions**
-- **iGEM** - Gold prize, 08|2015, London, UK<br>
-- **iGEM** - Bronze prize, 08|2014, London, UK<br>
+- **International Genetically Engineered Machine competition** - Gold prize, 08|2015, London, UK<br>
+- **International Genetically Engineered Machine competition** - Bronze prize, 08|2014, London, UK<br>
 <br>
 
 
